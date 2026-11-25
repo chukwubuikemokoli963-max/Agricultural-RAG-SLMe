@@ -52,8 +52,8 @@ The initial proposed technologies include:
 
 ### 5. Development Roadmap
 
-| Phase | Description | Status |
-|---|---|---|
+| Phase | Description |
+|---|---|
 | 0 | Project setup and architecture 
 | 1 | Agricultural data collection 
 | 2 | Document processing and preparation 
