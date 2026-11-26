@@ -1,0 +1,8 @@
+test,passed
+Reject cereal passage for cassava,True
+Retain cassava-specific evidence,True
+Reject unrelated drought passage,True
+Retain actionable drought evidence,True
+Reject unrelated manure evidence,True
+Retain relevant manure evidence,True
+Reject chemical quantities,True

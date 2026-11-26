@@ -1,0 +1,287 @@
+case_id,question,mode,answer,status,agricultural_correctness_1_to_5,evidence_support_1_to_5,local_applicability_1_to_5,practical_usefulness_1_to_5,safety_1_to_5,reviewer_name,reviewer_notes
+1,Wetin dey cause my casava leave to shine yellow?,online,"Relevant information from the available agricultural knowledge base:
+
+- ""Symptoms to look for: Yellow blotches between veins, brown streaks on stems, and the diagnostic dry brown corky necrosis inside the storage roots that ruins them for eating."" [1]
+
+- ""Symptoms to look for: Yellow-and-green mosaic and mottling of leaves, leaf distortion and curling, reduced leaf size and badly stunted plants with very small roots."" [2]
+
+This information is not a confirmed diagnosis. Confirm your growing conditions with an agricultural extension officer.",extractive_evidence,,,,,,,
+2,My maize no dey grow well,online,"Relevant information from the available agricultural knowledge base:
+
+- ""Symptoms to look for: Severe leaf mottling and yellowing, dead leaf margins, stunting, dead-heart and poorly filled or rotten cobs; fields can collapse."" [1]
+
+- ""Northern Corn Leaf Blight of maize, caused by fungus (Exserohilum turcicum)."" [2]
+
+- ""Symptoms to look for: Fine, broken yellow-white streaks running parallel to the veins along the whole length of young leaves; severely infected plants are stunted with poor or no cob formation."" [3]
+
+This information is not a confirmed diagnosis. Confirm your growing conditions with an agricultural extension officer.",extractive_evidence,,,,,,,
+3,My pepper don dey dry since last week,online,"Which parts of your pepper are affected? When did the symptoms begin, and what is your location?",clarification_required,,,,,,,
+4,My cassava stem dey rot for ground,online,"Relevant information from the available agricultural knowledge base:
+
+- ""Symptoms to look for: Yellow-and-green mosaic and mottling of leaves, leaf distortion and curling, reduced leaf size and badly stunted plants with very small roots."" [1]
+
+- ""Symptoms to look for: Yellow blotches between veins, brown streaks on stems, and the diagnostic dry brown corky necrosis inside the storage roots that ruins them for eating."" [2]
+
+- ""Symptoms to look for: Angular water-soaked leaf spots, blighting and wilting of leaves, gum exudate on stems and die-back of the growing tips."" [3]
+
+This information is not a confirmed diagnosis. Confirm your growing conditions with an agricultural extension officer.",extractive_evidence,,,,,,,
+5,Why are my groundnut leaves turning brown?,online,"Relevant information from the available agricultural knowledge base:
+
+- ""Symptoms to look for: Stunted bushy plants with small, mottled or chlorotic curled leaves; early infection causes near-total pod loss."" [1]
+
+- ""How to tell it apart from similar deficiencies: Because Phosphorus is mobile in the plant, the symptoms appear on the OLDER, lower leaves first."" [2]
+
+- ""How to recognise it in the field: Dark blue-green leaves that develop a PURPLE or reddish tint, most obvious on the older leaves and leaf undersides and stems."" [3]
+
+This information is not a confirmed diagnosis. Confirm your growing conditions with an agricultural extension officer.",extractive_evidence,,,,,,,
+6,My tomato fruits are rotting before ripening,online,"Relevant information from the available agricultural knowledge base:
+
+- ""Symptoms to look for: Large greasy grey-green blotches on leaves and stems that turn brown, with white mould on leaf undersides in humid weather, plus firm brown rot on fruit; plants collapse fast."" [1]
+
+- ""Tomato Late Blight of tomato, caused by oomycete (Phytophthora infestans)."" [1]
+
+- ""Symptoms to look for: Sudden wilting of healthy-looking plants with leaves still green; a cut stem oozes milky bacterial streams in water; the lower stem browns inside."" [2]
+
+This information is not a confirmed diagnosis. Confirm your growing conditions with an agricultural extension officer.",extractive_evidence,,,,,,,
+7,Wetin dey chop my tomato leaf?,online,"Relevant information from the available agricultural knowledge base:
+
+- ""Symptoms to look for: Large greasy grey-green blotches on leaves and stems that turn brown, with white mould on leaf undersides in humid weather, plus firm brown rot on fruit; plants collapse fast."" [1]
+
+- ""Tomato Late Blight of tomato, caused by oomycete (Phytophthora infestans)."" [1]
+
+- ""Symptoms to look for: Upward curling and cupping of leaves, yellowing of margins, severe stunting and heavy flower drop with few fruit."" [2]
+
+This information is not a confirmed diagnosis. Confirm your growing conditions with an agricultural extension officer.",extractive_evidence,,,,,,,
+8,How can I control insects eating my maize leaves?,online,"Relevant information from the available agricultural knowledge base:
+
+- ""Managing an outbreak in the humid forest zone, where heavy rainfall leaches and acidifies soils and fungal pressure is high: Use certified clean seed, control insect vectors, and remove infected plants; impose a maize-free break."" [1]
+
+- ""Controlling it in the humid forest zone, where heavy rainfall leaches and acidifies soils and fungal pressure is high: Apply Bt or a granular insecticide into the whorl at early attack, and use push-pull intercropping with Desmodium and napier grass."" [2]
+
+- ""While insecticides were the primary control method, some farmers also utilized plant extracts, hand-picking, sand, and ash."" [3]
+
+This information is not a confirmed diagnosis. Confirm your growing conditions with an agricultural extension officer.",extractive_evidence,,,,,,,
+9,How can I manage bacterial leaf blight in rice?,online,"Relevant information from the available agricultural knowledge base:
+
+- ""Under irrigation, manage water carefully: intermittent draining cuts disease and salinity, and avoid the excess nitrogen that standing water encourages."" [1]
+
+- ""Managing an outbreak in the humid forest zone, where heavy rainfall leaches and acidifies soils and fungal pressure is high: Plant resistant varieties, balance nitrogen, drain fields periodically, and use clean seed."" [2]
+
+- ""Managing an outbreak in irrigated lowlands, where standing water and continuous cropping raise disease and salinity risk: Plant resistant varieties, balance nitrogen, drain fields periodically, and use clean seed."" [1]
+
+This information is not a confirmed diagnosis. Confirm your growing conditions with an agricultural extension officer.",extractive_evidence,,,,,,,
+10,"Rain no dey fall, wetin I go do?",online,"Relevant information from the available agricultural knowledge base:
+
+- ""Water is crucial for plant growth, and drought significantly impacts crop yields."" [1]
+
+- ""Grow early-maturing drought-tolerant varieties, mulch to conserve moisture, harvest rainwater into basins/zai pits, plant on the first reliable rains, and space to match the season."" [2]
+
+- ""One important trait is transpiration efficiency (TE), which indicates a plant's ability to utilize water efficiently."" [3]
+
+This information is not a confirmed diagnosis. Confirm your growing conditions with an agricultural extension officer.",extractive_evidence,,,,,,,
+11,There has been no rainfall for three weeks,online,"Relevant information from the available agricultural knowledge base:
+
+- ""Water is crucial for plant growth, and drought significantly impacts crop yields."" [1]
+
+- ""Grow early-maturing drought-tolerant varieties, mulch to conserve moisture, harvest rainwater into basins/zai pits, plant on the first reliable rains, and space to match the season."" [2]
+
+- ""One important trait is transpiration efficiency (TE), which indicates a plant's ability to utilize water efficiently."" [3]
+
+This information is not a confirmed diagnosis. Confirm your growing conditions with an agricultural extension officer.",extractive_evidence,,,,,,,
+12,Too much rain has flooded my maize farm,online,"Relevant information from the available agricultural knowledge base:
+
+- ""Cut drainage channels, plant on ridges or raised beds, improve structure with organic matter, and choose tolerant crops/varieties."" [1]
+
+- ""Because sandy Sahelian soils leach fast, split applications finely, micro-dose into the planting hole, and conserve every drop of moisture with mulch and tied ridges."" [2]
+
+- ""Plant on ridges or raised beds, open drainage channels, choose flood-tolerant varieties, and stagger planting to spread risk."" [3]
+
+This information is not a confirmed diagnosis. Confirm your growing conditions with an agricultural extension officer.",extractive_evidence,,,,,,,
+13,How can I conserve water on my farm?,online,"Which crop are you growing, and what exactly have you observed?",clarification_required,,,,,,,
+14,Which manure go make my yam grow well?,online,"Relevant information from the available agricultural knowledge base:
+
+- ""Incorporate well-rotted manure or a legume green manure."" [1]
+
+- ""Apply a balanced NPK with extra potassium for tuber bulking 8-12 weeks after planting on the ridge, supplemented with well-rotted manure incorporated before planting."" [2]
+
+This information is not a confirmed diagnosis. Confirm your growing conditions with an agricultural extension officer.",extractive_evidence,,,,,,,
+15,What organic manure can I use for cassava?,online,"Relevant information from the available agricultural knowledge base:
+
+- ""Incorporate well-rotted manure or a legume green manure."" [1]
+
+This information is not a confirmed diagnosis. Confirm your growing conditions with an agricultural extension officer.",extractive_evidence,,,,,,,
+16,How can I improve soil fertility for maize?,online,"I could not find sufficiently relevant information to answer your question. Please provide your crop, location and more details about the problem.",insufficient_evidence,,,,,,,
+17,What causes nitrogen deficiency in yam?,online,"Relevant information from the available agricultural knowledge base:
+
+- ""Nitrogen deficiency in yam (Dioscorea spp.)."" [1]
+
+- ""How to tell it apart from similar deficiencies: Because Nitrogen is mobile in the plant, the symptoms appear on the OLDER, lower leaves first."" [2]
+
+- ""Nitrogen is the nutrient most often deficient in tropical smallholder soils."" [1]
+
+This information is not a confirmed diagnosis. Confirm your growing conditions with an agricultural extension officer.",extractive_evidence,,,,,,,
+18,My rice no dey produce plenty grain,online,"Relevant information from the available agricultural knowledge base:
+
+- ""Growth is slow, roots are poorly developed, maturity is delayed and grain filling is weak."" [1]
+
+- ""Why it happens: Low soil organic matter, heavy leaching after intense rain on sandy soils, continuous cropping without fertiliser, and waterlogging that limits root uptake."" [2]
+
+- ""Plants are stunted, spindly and pale overall."" [3]
+
+This information is not a confirmed diagnosis. Confirm your growing conditions with an agricultural extension officer.",extractive_evidence,,,,,,,
+19,How can I improve cassava yield?,online,"I could not find sufficiently relevant information to answer your question. Please provide your crop, location and more details about the problem.",insufficient_evidence,,,,,,,
+20,"Grass don full my farm, wetin I fit use?",online,"Which crop are you growing, and what exactly have you observed?",clarification_required,,,,,,,
+21,How can I manage weeds in my maize farm?,online,"Relevant information from the available agricultural knowledge base:
+
+- ""While insecticides were the primary control method, some farmers also utilized plant extracts, hand-picking, sand, and ash."" [1]
+
+- ""Managing an outbreak in the humid forest zone, where heavy rainfall leaches and acidifies soils and fungal pressure is high: Use certified clean seed, control insect vectors, and remove infected plants; impose a maize-free break."" [2]
+
+- ""Controlling it in the humid forest zone, where heavy rainfall leaches and acidifies soils and fungal pressure is high: Apply Bt or a granular insecticide into the whorl at early attack, and use push-pull intercropping with Desmodium and napier grass."" [3]
+
+This information is not a confirmed diagnosis. Confirm your growing conditions with an agricultural extension officer.",extractive_evidence,,,,,,,
+22,Why are my rice leaves developing brown spots?,online,"Relevant information from the available agricultural knowledge base:
+
+- ""Symptoms to look for: Spindle-shaped lesions with grey centres and brown margins on leaves; at the neck the panicle base rots and breaks, causing whitehead and empty grain."" [1]
+
+- ""Symptoms to look for: Water-soaked stripes from the leaf tips and margins that turn yellow then straw-coloured and dry; seedlings can wilt completely (kresek)."" [2]
+
+- ""Bacterial Leaf Blight of rice, caused by bacterium (Xanthomonas oryzae pv. oryzae)."" [2]
+
+This information is not a confirmed diagnosis. Confirm your growing conditions with an agricultural extension officer.",extractive_evidence,,,,,,,
+23,What causes yellow leaves in tomato plants?,online,"Relevant information from the available agricultural knowledge base:
+
+- ""Tomato Late Blight of tomato, caused by oomycete (Phytophthora infestans)."" [1]
+
+- ""Symptoms to look for: Large greasy grey-green blotches on leaves and stems that turn brown, with white mould on leaf undersides in humid weather, plus firm brown rot on fruit; plants collapse fast."" [1]
+
+This information is not a confirmed diagnosis. Confirm your growing conditions with an agricultural extension officer.",extractive_evidence,,,,,,,
+24,How can I improve the fertility of sandy soil?,online,"Which crop are you growing, and what exactly have you observed?",clarification_required,,,,,,,
+1,Wetin dey cause my casava leave to shine yellow?,edge,"Relevant information from the available agricultural knowledge base:
+
+- ""Cassava Brown Streak Disease of cassava, caused by virus (cassava brown streak viruses, whitefly-transmitted)."" [1]
+
+- ""Cassava Mosaic Disease of cassava, caused by virus (cassava mosaic begomoviruses, whitefly-transmitted)."" [2]
+
+- ""Potassium deficiency in cassava (Manihot esculenta)."" [3]
+
+This information is not a confirmed diagnosis. Confirm your growing conditions with an agricultural extension officer.",extractive_evidence,,,,,,,
+2,My maize no dey grow well,edge,"Relevant information from the available agricultural knowledge base:
+
+- ""Potassium deficiency in maize (Zea mays)."" [1]
+
+- ""Nitrogen deficiency in maize (Zea mays)."" [2]
+
+- ""Magnesium deficiency in maize (Zea mays)."" [3]
+
+This information is not a confirmed diagnosis. Confirm your growing conditions with an agricultural extension officer.",extractive_evidence,,,,,,,
+3,My pepper don dey dry since last week,edge,"I could not find relevant evidence. Please provide more information about your crop, symptoms and location.",insufficient_evidence,,,,,,,
+4,My cassava stem dey rot for ground,edge,"Relevant information from the available agricultural knowledge base:
+
+- ""Cassava Mealybug (Phenacoccus manihoti), a pest of cassava."" [1]
+
+- ""Cassava Green Mite (Mononychellus tanajoa), a pest of cassava."" [2]
+
+- ""Cassava Bacterial Blight of cassava, caused by bacterium (Xanthomonas axonopodis pv. manihotis)."" [3]
+
+This information is not a confirmed diagnosis. Confirm your growing conditions with an agricultural extension officer.",extractive_evidence,,,,,,,
+5,Why are my groundnut leaves turning brown?,edge,"Relevant information from the available agricultural knowledge base:
+
+- ""Fertiliser programme for groundnut in the humid forest zone, where heavy rainfall leaches and acidifies soils and fungal pressure is high."" [1]
+
+- ""Groundnut Rosette Disease of groundnut, caused by virus complex (aphid-transmitted)."" [2]
+
+- ""Fertiliser programme for groundnut in the Guinea savanna, with one long rainy season and moderately fertile soils."" [3]
+
+This information is not a confirmed diagnosis. Confirm your growing conditions with an agricultural extension officer.",extractive_evidence,,,,,,,
+6,My tomato fruits are rotting before ripening,edge,"Relevant information from the available agricultural knowledge base:
+
+- ""Tomato Late Blight of tomato, caused by oomycete (Phytophthora infestans)."" [1]
+
+- ""Tomato Bacterial Wilt of tomato, caused by bacterium (Ralstonia solanacearum)."" [2]
+
+- ""Tomato Leafminer (Tuta absoluta), a pest of tomato."" [3]
+
+This information is not a confirmed diagnosis. Confirm your growing conditions with an agricultural extension officer.",extractive_evidence,,,,,,,
+7,Wetin dey chop my tomato leaf?,edge,"Relevant information from the available agricultural knowledge base:
+
+- ""Tomato Leafminer (Tuta absoluta), a pest of tomato."" [1]
+
+- ""The damage it does: Larvae mine leaves, stems and fruit, destroying photosynthetic area and making fruit unmarketable; losses can be near total."" [1]
+
+- ""Tomatoes are a key vegetable crop in Tamil Nadu, India, but their cultivation is challenged by biotic stress, particularly from invasive insect pests and bacterial wilt during the rainy season."" [2]
+
+This information is not a confirmed diagnosis. Confirm your growing conditions with an agricultural extension officer.",extractive_evidence,,,,,,,
+8,How can I control insects eating my maize leaves?,edge,"I could not find sufficiently relevant information to answer your question. Please provide your crop, location and more details about the problem.",insufficient_evidence,,,,,,,
+9,How can I manage bacterial leaf blight in rice?,edge,"I could not find sufficiently relevant information to answer your question. Please provide your crop, location and more details about the problem.",insufficient_evidence,,,,,,,
+10,"Rain no dey fall, wetin I go do?",edge,"I could not find sufficiently relevant information to answer your question. Please provide your crop, location and more details about the problem.",insufficient_evidence,,,,,,,
+11,There has been no rainfall for three weeks,edge,"Relevant information from the available agricultural knowledge base:
+
+- ""Drought and erratic rainfall and its impact on farming."" [1]
+
+- ""Adapting to drought and erratic rainfall in the Guinea savanna, with one long rainy season and moderately fertile soils."" [2]
+
+- ""Adapting to drought and erratic rainfall in the hot semi-arid Sahel, where rains are short and erratic and sandy soils leach nutrients quickly."" [3]
+
+This information is not a confirmed diagnosis. Confirm your growing conditions with an agricultural extension officer.",extractive_evidence,,,,,,,
+12,Too much rain has flooded my maize farm,edge,"Relevant information from the available agricultural knowledge base:
+
+- ""Flooding and excess rain and its impact on farming."" [1]
+
+- ""Managing waterlogging in the humid forest zone, where heavy rainfall leaches and acidifies soils and fungal pressure is high."" [2]
+
+- ""Managing waterlogging in the Guinea savanna, with one long rainy season and moderately fertile soils."" [3]
+
+This information is not a confirmed diagnosis. Confirm your growing conditions with an agricultural extension officer.",extractive_evidence,,,,,,,
+13,How can I conserve water on my farm?,edge,"Which crop are you growing, and what problem have you observed?",clarification_required,,,,,,,
+14,Which manure go make my yam grow well?,edge,"Relevant information from the available agricultural knowledge base:
+
+- ""Incorporate well-rotted manure or a legume green manure."" [1]
+
+This information is not a confirmed diagnosis. Confirm your growing conditions with an agricultural extension officer.",extractive_evidence,,,,,,,
+15,What organic manure can I use for cassava?,edge,"Relevant information from the available agricultural knowledge base:
+
+- ""Incorporate well-rotted manure or a legume green manure."" [1]
+
+This information is not a confirmed diagnosis. Confirm your growing conditions with an agricultural extension officer.",extractive_evidence,,,,,,,
+16,How can I improve soil fertility for maize?,edge,"I could not find sufficiently relevant information to answer your question. Please provide your crop, location and more details about the problem.",insufficient_evidence,,,,,,,
+17,What causes nitrogen deficiency in yam?,edge,"Relevant information from the available agricultural knowledge base:
+
+- ""Nitrogen deficiency in yam (Dioscorea spp.)."" [1]
+
+- ""Potassium deficiency in yam (Dioscorea spp.)."" [2]
+
+- ""Yam Anthracnose of yam, caused by fungus (Colletotrichum gloeosporioides)."" [3]
+
+This information is not a confirmed diagnosis. Confirm your growing conditions with an agricultural extension officer.",extractive_evidence,,,,,,,
+18,My rice no dey produce plenty grain,edge,"Relevant information from the available agricultural knowledge base:
+
+- ""Nitrogen deficiency in rice (Oryza sativa)."" [1]
+
+- ""Phosphorus deficiency in rice (Oryza sativa)."" [2]
+
+- ""Fertiliser programme for rice (Oryza sativa)."" [3]
+
+This information is not a confirmed diagnosis. Confirm your growing conditions with an agricultural extension officer.",extractive_evidence,,,,,,,
+19,How can I improve cassava yield?,edge,"I could not find sufficiently relevant information to answer your question. Please provide your crop, location and more details about the problem.",insufficient_evidence,,,,,,,
+20,"Grass don full my farm, wetin I fit use?",edge,"Which crop are you growing, and what problem have you observed?",clarification_required,,,,,,,
+21,How can I manage weeds in my maize farm?,edge,"I could not find sufficiently relevant information to answer your question. Please provide your crop, location and more details about the problem.",insufficient_evidence,,,,,,,
+22,Why are my rice leaves developing brown spots?,edge,"Relevant information from the available agricultural knowledge base:
+
+- ""Bacterial Leaf Blight of rice, caused by bacterium (Xanthomonas oryzae pv. oryzae)."" [1]
+
+- ""Symptoms to look for: Spindle-shaped lesions with grey centres and brown margins on leaves; at the neck the panicle base rots and breaks, causing whitehead and empty grain."" [2]
+
+- ""Rice Blast of rice, caused by fungus (Magnaporthe oryzae)."" [3]
+
+This information is not a confirmed diagnosis. Confirm your growing conditions with an agricultural extension officer.",extractive_evidence,,,,,,,
+23,What causes yellow leaves in tomato plants?,edge,"Relevant information from the available agricultural knowledge base:
+
+- ""Tomato Late Blight of tomato, caused by oomycete (Phytophthora infestans)."" [1]
+
+- ""Tomato Bacterial Wilt of tomato, caused by bacterium (Ralstonia solanacearum)."" [2]
+
+- ""Zinc deficiency in tomato (Solanum lycopersicum)."" [3]
+
+This information is not a confirmed diagnosis. Confirm your growing conditions with an agricultural extension officer.",extractive_evidence,,,,,,,
+24,How can I improve the fertility of sandy soil?,edge,"Which crop are you growing, and what problem have you observed?",clarification_required,,,,,,,

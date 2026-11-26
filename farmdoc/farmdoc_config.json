@@ -1,0 +1,13 @@
+{
+    "application_name": "FarmDoc",
+    "subtitle": "Powered by Agricultural RAG SLMe",
+    "remote_url": "",
+    "automatic_edge_fallback": true,
+    "remote_timeout_seconds": 8,
+    "colors": {
+        "main": "#F5F7F6",
+        "background": "#0D1F17",
+        "text": "#111815",
+        "highlight": "#E2ECE7"
+    }
+}

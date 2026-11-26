@@ -1,0 +1,108 @@
+{
+    "project": "Agricultural-RAG-SLMe",
+    "profile": "edge",
+    "embedding_model": "BAAI/bge-small-en-v1.5",
+    "embedding_precision": "INT8",
+    "device": "cpu",
+    "document_count": 695,
+    "normalization_rules": [
+        [
+            "\\bcasava\\b",
+            "cassava"
+        ],
+        [
+            "\\bkasava\\b",
+            "cassava"
+        ],
+        [
+            "\\bshine yellow\\b",
+            "turn yellow"
+        ],
+        [
+            "\\bwetin dey cause\\b",
+            "what causes"
+        ],
+        [
+            "\\bwetin dey chop\\b",
+            "what is eating"
+        ],
+        [
+            "\\bhow i go take\\b",
+            "how can I"
+        ],
+        [
+            "\\bwetin i go do\\b",
+            "what should I do"
+        ],
+        [
+            "\\bwetin i fit use\\b",
+            "what can I use"
+        ],
+        [
+            "\\brain no dey fall\\b",
+            "rainfall is insufficient"
+        ],
+        [
+            "\\bno dey grow well\\b",
+            "is not growing well"
+        ],
+        [
+            "\\bno dey produce\\b",
+            "does not produce"
+        ],
+        [
+            "\\bdon dey dry\\b",
+            "has been drying"
+        ],
+        [
+            "\\bdey rot\\b",
+            "is rotting"
+        ],
+        [
+            "\\bpursue insect comot\\b",
+            "control insects"
+        ],
+        [
+            "\\bgrass don full\\b",
+            "weeds have covered"
+        ],
+        [
+            "\\bplenty grain\\b",
+            "much grain"
+        ],
+        [
+            "\\bleave\\b",
+            "leaf"
+        ],
+        [
+            "\\bwetin\\b",
+            "what"
+        ]
+    ],
+    "crop_names": [
+        "cassava",
+        "maize",
+        "rice",
+        "tomato",
+        "pepper",
+        "yam",
+        "groundnut",
+        "cowpea",
+        "cocoa",
+        "millet",
+        "sorghum",
+        "potato",
+        "banana",
+        "plantain",
+        "beans",
+        "wheat",
+        "soybean",
+        "onion",
+        "cabbage",
+        "barley"
+    ],
+    "drought_pattern": "(?:drought|insufficient rainfall|lack of rain|no rainfall|rain no dey fall|rain is not falling|water shortage|dry spell)|(?:rainfall is insufficient|rain no dey fall|rain is not falling|rain has not fallen|lack of rain|insufficient rain|no rainfall|water shortage|dry spell)",
+    "flood_pattern": "flooding|waterlogging|excess rain|too much rain|flooded",
+    "minimum_passage_similarity": 0.45,
+    "maximum_evidence_passages": 3
+}
